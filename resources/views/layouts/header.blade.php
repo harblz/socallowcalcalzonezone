@@ -1,10 +1,14 @@
-<section class="hero is-primary is-medium">
+<section class="hero is-primary is-fullheight">
+  <div class="slider">
+    <!-- Images <img src="/imgs/handwritten-italian-marketing-menu.jpg"> -->
+
+  </div>
   <!-- Hero header: will stick at the top -->
   <div class="hero-head">
     <header class="nav">
       <div class="container">
         <div class="nav-left">
-          <a class="nav-item">
+          <a class="nav-item" style="color: #f1f1f1;font-size: 1.5rem;">
             SoCal Low-cal Calzone Zone
           </a>
         </div>
@@ -18,17 +22,17 @@
             Home
           </a>
           <a class="nav-item">
-            Examples
+            <i class="fa fa-book" aria-hidden="true"></i> &nbsp Menu
           </a>
           <a class="nav-item">
-            Documentation
+            <i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp Store Hours
           </a>
           <span class="nav-item">
             <a class="button is-primary is-inverted">
               <span class="icon">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-spoon" aria-hidden="true"></i>
               </span>
-              <span>Download</span>
+              <span> Order Online</span>
             </a>
           </span>
         </div>
@@ -39,10 +43,11 @@
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
     <div class="container has-text-centered">
-      <h1 class="title">
+      <h1 class="title is-1" style="border-radius: 15px; margin: 0 auto 0 auto; width:50%; padding: 3px; background-color:rgba(0, 0, 0, 0.5);">
         SoCal Low-cal Calzone Zone
       </h1>
-      <h2 class="subtitle">
+      <br>
+      <h2 class="subtitle" style="color: black;font-size: 1.5rem;border-radius: 15px; padding: 3px; background-color:rgba(200, 200, 200, 0.4);">
         Your choice for health-conscious Italian food in southern California.
       </h2>
     </div>

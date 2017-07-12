@@ -2,11 +2,11 @@
   <div class="container">
     <ul>
       <router-link tag="li" to="/" exact>
-        <a>Home</a>
+        <a class="title is-1">Home</a>
       </router-link>
 
       <router-link tag="li" to="/about">
-        <a>About</a>
+        <a class="title is-1">Gallery</a>
       </router-link>
     </ul>
   </div>

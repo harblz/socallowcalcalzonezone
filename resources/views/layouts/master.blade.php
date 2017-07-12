@@ -5,7 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="shortcut icon" href="/imgs/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/imgs/favicon.ico" type="image/x-icon">
+
         <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 
         <title>SoCal Low-cal Calzone Zone</title>
 
